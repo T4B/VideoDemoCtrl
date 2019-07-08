@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAP</string>
+    <string name="description">description</string>
+
+    <string name="title_activity_fullscreen_video">FullscreenVideoActivity</string>
+    <string name="tv_title_gallery">descubre la forma más eficaz de seleccionar a tu personal en punto de venta</string>
+</resources>
